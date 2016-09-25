@@ -1,0 +1,10 @@
+Package: com.skylerk99.cyspring
+Name: CySpring
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Stops Cydia resprings from killing battery information.
+Maintainer: Skyler Kansala
+Author: Skyler Kansala
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 272
